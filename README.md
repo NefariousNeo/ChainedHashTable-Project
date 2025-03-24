@@ -18,7 +18,7 @@ The `ChainedHashTable` is a hash table implementation that uses chaining to hand
 2. **Navigate to the Project Directory**:
    - Go to the project directory:
      ```bash
-     cd ChainedHashTable
+     cd ChainedHashTable-Project
      ```
 
 3. **Install Dependencies**:
